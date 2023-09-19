@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\dakka\\onedrive\\documenten\\wizardsurvior\\intermediate\\build\\win64\\unrealeditor\\inc\\wizardsurvior\\uht\\wizardsurvior.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\dakka\\onedrive\\documenten\\wizardsurvior\\intermediate\\build\\win64\\x64\\wizardsurvioreditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\dakka\\onedrive\\documenten\\wizardsurvior\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wizardsurvior\\definitions.wizardsurvior.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

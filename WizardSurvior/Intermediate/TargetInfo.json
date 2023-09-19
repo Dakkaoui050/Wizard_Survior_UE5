@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WizardSurvior",
+			"Path": "..\\Source\\WizardSurvior.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WizardSurviorEditor",
+			"Path": "..\\Source\\WizardSurviorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
